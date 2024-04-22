@@ -1,0 +1,44 @@
+body {
+    color: white;
+    background-color:#1b99ca;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+ul {
+    display: flex;
+    justify-content: space-between; 
+    list-style-type: none;
+    align-items: center; 
+    padding: 16px;
+}
+
+a {
+    color:white;
+    text-decoration: none;
+    text-align: center;
+}
+
+header img {
+    width: 50px;
+    height: 50px;
+    
+    }
+
+.apa {
+    position: absolute;
+    left: 10px;
+    top:140px;
+}
+.ape {
+    position: absolute;
+    left: 10px;
+    top: 90px;
+}
+.recuo {
+    text-indent: 4em; 
+    margin-top: 0.83em ;
+}
+
+nav a:hover {
+    color:blue
+}
